@@ -1,0 +1,17 @@
+com/booxware/task/domain/Account.class
+com/booxware/task/exception/AccountServiceException.class
+com/booxware/task/rest/LoginResourceInterface.class
+com/booxware/task/rest/LoginResource.class
+com/booxware/task/service/AccountServiceInterface.class
+com/booxware/task/security/SecurityPathRequestMatcher.class
+com/booxware/task/service/AccountService.class
+com/booxware/task/config/MainConfig.class
+com/booxware/task/security/SecurityCsrfFilter.class
+com/booxware/task/config/JerseyConfig.class
+com/booxware/task/domain/AccountRole.class
+com/booxware/task/persistence/Persistence$1.class
+com/booxware/task/persistence/Persistence$AccountRowMapper.class
+com/booxware/task/persistence/Persistence.class
+com/booxware/task/persistence/PersistenceInterface.class
+com/booxware/task/BooxwareTaskApplication.class
+com/booxware/task/config/SecurityConfig.class

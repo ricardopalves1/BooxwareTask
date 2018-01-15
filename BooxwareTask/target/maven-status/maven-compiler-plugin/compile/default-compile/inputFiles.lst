@@ -1,0 +1,15 @@
+/Users/ricardopalvesjr/Development/workspace-sts/BooxwareTask/src/main/java/com/booxware/task/service/AccountService.java
+/Users/ricardopalvesjr/Development/workspace-sts/BooxwareTask/src/main/java/com/booxware/task/rest/LoginResource.java
+/Users/ricardopalvesjr/Development/workspace-sts/BooxwareTask/src/main/java/com/booxware/task/domain/AccountRole.java
+/Users/ricardopalvesjr/Development/workspace-sts/BooxwareTask/src/main/java/com/booxware/task/persistence/Persistence.java
+/Users/ricardopalvesjr/Development/workspace-sts/BooxwareTask/src/main/java/com/booxware/task/security/SecurityCsrfFilter.java
+/Users/ricardopalvesjr/Development/workspace-sts/BooxwareTask/src/main/java/com/booxware/task/service/AccountServiceInterface.java
+/Users/ricardopalvesjr/Development/workspace-sts/BooxwareTask/src/main/java/com/booxware/task/BooxwareTaskApplication.java
+/Users/ricardopalvesjr/Development/workspace-sts/BooxwareTask/src/main/java/com/booxware/task/exception/AccountServiceException.java
+/Users/ricardopalvesjr/Development/workspace-sts/BooxwareTask/src/main/java/com/booxware/task/config/JerseyConfig.java
+/Users/ricardopalvesjr/Development/workspace-sts/BooxwareTask/src/main/java/com/booxware/task/security/SecurityPathRequestMatcher.java
+/Users/ricardopalvesjr/Development/workspace-sts/BooxwareTask/src/main/java/com/booxware/task/rest/LoginResourceInterface.java
+/Users/ricardopalvesjr/Development/workspace-sts/BooxwareTask/src/main/java/com/booxware/task/persistence/PersistenceInterface.java
+/Users/ricardopalvesjr/Development/workspace-sts/BooxwareTask/src/main/java/com/booxware/task/config/SecurityConfig.java
+/Users/ricardopalvesjr/Development/workspace-sts/BooxwareTask/src/main/java/com/booxware/task/domain/Account.java
+/Users/ricardopalvesjr/Development/workspace-sts/BooxwareTask/src/main/java/com/booxware/task/config/MainConfig.java
